@@ -68,14 +68,10 @@ Here are some ideas to get you started:
   ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
   
   
-<br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/Esp-Dv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esp-Dv&theme=dracula&show_icons=true" />
 </a>
 
-<br/>
 
-<a href="https://github.com/Esp-Dv">
-  <img height="70em" src="https://github-profile-trophy.vercel.app/?username=Esp-Dv" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Esp-Dv&theme=dark&background=000000)](https://git.io/streak-stats)
